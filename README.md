@@ -1,6 +1,7 @@
 # Certifications
 
 ## AWS Solutions Architect - Associate Accelerator
+https://mpa-saa-accelerator-q12023.splashthat.com/
 
 WEEK 1 - JAN 30-FEB 3
 
@@ -10,7 +11,7 @@ Kickoff and Technical Essentials
 
 - [ ] Introduction and Technical Essentials
 
-- [ ] Content Review - Wednesday, February 1 | 8:30 - 9:30 AM PST | Download slides › | Watch recording ›
+- [x] Content Review - Wednesday, February 1 | 8:30 - 9:30 AM PST | Download slides › | Watch recording ›
 
 - [ ] Exam Strategy / Q&A - Friday, February 3 | 8:30 - 9:30 AM PST | Watch recording ›
 
