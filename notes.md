@@ -1,4 +1,4 @@
-## week review 1
+## review content week 1
 https://d1zkqv7c4vgdzp.cloudfront.net/SAA3/saa3_wk1.pdf
 what factor to choose this region not another?
 lantency, users in specific area 
@@ -60,5 +60,5 @@ STANDARD FOR RETRIVAL A LOT
 s3 bucket policie - principal element
 s3 bucket policy principles:
 valid principals for your bucket poliecies include:
-
+https://aws.amazon.com/s3/storage-classes-infographic/
 AWS CloudFront
