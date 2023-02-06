@@ -37,6 +37,11 @@ tagging
 
 IAM group vs OU Organizations
 
+
+## exam strategy 1 
+EC2 hibernates :O , 2 week company shutdown use Hibernate
+ephernal storage
+
 IAM Policies
 Identity Policies vs Resources Policies
 Identity Policies
