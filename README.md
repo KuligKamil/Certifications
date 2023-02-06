@@ -13,9 +13,8 @@ Kickoff and Technical Essentials
 
 - [x] Content Review - Wednesday, February 1 | 8:30 - 9:30 AM PST | Download slides › | Watch recording ›
 
-- [ ] Exam Strategy / Q&A - Friday, February 3 | 8:30 - 9:30 AM PST | Watch recording ›
+- [x] Exam Strategy / Q&A - Friday, February 3 | 8:30 - 9:30 AM PST | Watch recording ›
 
-- Download Week 1 email ›
 
 WEEK 2 - FEB 6-10
 
