@@ -10,6 +10,9 @@ Kickoff and Technical Essentials
 - [x]  Kick-off - Monday, January 30 | 8:30 - 9:30 AM PST | Watch recording › 
 
 - [ ] Introduction and Technical Essentials
+  - [ ] AWS Partner: Accreditation (Technical) - 4h
+  - [ ] Introduction to AWS Organizations - 6m
+  - [ ] AWS Technical Essentials - 4h
 
 - [x] Content Review - Wednesday, February 1 | 8:30 - 9:30 AM PST | Download slides › | Watch recording ›
 
