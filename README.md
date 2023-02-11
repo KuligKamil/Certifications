@@ -1,6 +1,8 @@
 # Certifications
 
 ## AWS Solutions Architect - Associate Accelerator
+
+"Work hard, have fun and make history."
 https://mpa-saa-accelerator-q12023.splashthat.com/
 
 WEEK 1 - JAN 30-FEB 3
