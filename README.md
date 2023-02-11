@@ -11,7 +11,7 @@ Kickoff and Technical Essentials
 
 - [ ] Introduction and Technical Essentials
   - [x] AWS Partner: Accreditation (Technical) - 4h 83%
-  - [ ] Introduction to AWS Organizations - 6m
+  - [x] Introduction to AWS Organizations - 6m
   - [ ] AWS Technical Essentials - 4h
 
 - [x] Content Review - Wednesday, February 1 | 8:30 - 9:30 AM PST | Download slides › | Watch recording ›
